@@ -3,77 +3,54 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Capstone+Project+by+Ibrahim+Adekolu;Power+BI+%7C+DAX+%7C+HR+Insights;Turnover+%7C+Recruitment+%7C+Cost+Center+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Capstone+Project+by+Ibrahim+Adekolu;HR+Analytics+%7C+Power+BI+%7C+DAX;Employee+Performance+%7C+Turnover+Insights;Cost+Center+Analysis+%7C+HR+KPIs" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 📊 Project Overview
 
-This Power BI dashboard project analyzes HR data from over **300+ employees**, delivering insights across:
+This project is a capstone in **HR Data Analytics** using Power BI, showcasing strategic insights into workforce trends for over **300+ employees**. It empowers HR decision-making with dashboards focused on:
 
-- 🌐 **Gender Distribution & Diversity**
-- 📈 **Performance and Satisfaction Trends**
-- 🔄 **Turnover Rates & Departmental Movement**
-- 🧠 **Cost Center Breakdown & Optimization**
-- 🧲 **Recruitment Channel Efficiency**
+- 🌐 **Diversity & Gender Distribution**
+- 📈 **Employee Performance & Satisfaction**
+- 🔁 **Turnover Trends & Department Shifts**
+- 💸 **Cost Center Efficiency**
+- 🧲 **Recruitment Channel Effectiveness**
 
 ---
 
 ## 🔍 Key Business Insights
 
-- 🏢 **Production** identified as the most expensive cost center.
-- 🔁 High turnover in **Customer Service** flagged for HR intervention.
-- 📊 Satisfaction scores inversely correlated with performance dips.
-- 🎯 Optimized recruitment channels to reduce hiring time and cost.
+- 🔍 **Production** identified as the highest-cost department.
+- 🔁 Turnover rate spikes in **Customer Service** flagged for attention.
+- 💡 High performers correlate with **greater satisfaction** scores.
+- ⏳ Certain recruitment channels produce better retention metrics.
 
 ---
 
-## ⚙️ Tools & Technologies Used
+## ⚙️ Tools & Technologies
 
-| Tool        | Purpose                          |
-|-------------|----------------------------------|
-| **Power BI**    | Data visualization & storytelling |
-| **DAX**         | Measures, KPIs, and filtering logic |
-| **Excel**       | Data cleaning & transformation    |
-| **HR Dataset**  | Employee info, salaries, departments, performance |
+| Tool            | Use Case                               |
+|-----------------|----------------------------------------|
+| **Power BI**    | Dashboard creation & storytelling      |
+| **DAX**         | Measures, KPIs, conditional formatting |
+| **Excel**       | Data cleaning & prep                   |
+| **CSV Dataset** | HR data on employees, KPIs, performance|
 
 ---
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](https://your-screenshot-link.com)  
-<sup><i>*Note: Replace this image with an actual screenshot once uploaded*</i></sup>
+![Dashboard Preview](https://your-dashboard-image-link.com)
+<sub><i>(Replace with your actual dashboard screenshot)</i></sub>
 
 ---
 
-## 🧠 What I Learned
+## 📂 Project Structure
 
-✅ Building dynamic HR dashboards  
-✅ Using **DAX** for creating KPIs  
-✅ Business storytelling with visualizations  
-✅ Interpreting workforce metrics for C-level stakeholders  
-
----
-
-## 📎 Project Files
-
-| File                  | Description                         |
-|-----------------------|-------------------------------------|
-| `HR_Dashboard.pbix`   | Power BI file with visuals and DAX  |
-| `HR_Data.xlsx`        | Cleaned dataset used in the model   |
-| `README.md`           | This file                           |
-
----
-
-## 📬 Contact
-
-📧 **Ibrahim Adekolu**  
-📍 Birmingham, UK  
-📨 [ibrahimadekolu@gmail.com](mailto:ibrahimadekolu@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-
----
-
-> 💡 *This capstone demonstrates my capability in applying data analytics to real business challenges using tools like Power BI and Excel. I welcome collaboration and feedback!*
-
+```bash
+📁 HR-Analytics-PowerBI
+├── 📊 HR_Dashboard.pbix       # Power BI report
+├── 📄 HR_Dataset.csv          # Cleaned employee dataset
+├── 📘 README.md               # Project documentation
