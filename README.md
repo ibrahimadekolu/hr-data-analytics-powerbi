@@ -51,6 +51,5 @@ This project is a capstone in **HR Data Analytics** using Power BI, showcasing s
 
 ```bash
 📁 HR-Analytics-PowerBI
-├── 📊 HR_Dashboard.pbix       # Power BI report
-├── 📄 HR_Dataset.csv          # Cleaned employee dataset
+├── 📊 HR_Dashboard.pdf       # Power BI report
 ├── 📘 README.md               # Project documentation
