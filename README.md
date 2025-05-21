@@ -42,7 +42,7 @@ This project is a capstone in **HR Data Analytics** using Power BI, showcasing s
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](https://your-dashboard-image-link.com)
+![Dashboard Preview](dashboard.jpg)
 <sub><i>(Replace with your actual dashboard screenshot)</i></sub>
 
 ---
